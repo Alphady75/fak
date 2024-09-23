@@ -11,7 +11,8 @@
   background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: -200px;
+  background-position-x: 0px;
+  background-position: bottom;
 }
 .leadCap{
   font-size: 15px;
