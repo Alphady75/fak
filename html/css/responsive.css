@@ -2,14 +2,21 @@
   .margintopNeg {
     margin-top: -300px;
   }
+
   .bgImg {
     background-position: right;
     background-position-x: 0px;
     background-position: bottom !important;
   }
+
   .nk-banner-saas .nk-banner-wrap {
     padding-top: 160px;
     height: 700px;
+  }
+
+  .shape-12::after {
+    width: 100%;
+    top: -300px;
   }
 }
 
@@ -63,6 +70,7 @@
   .nk-footer-copyright li::after {
     display: none !important;
   }
+
   .nk-banner-saas .nk-banner-wrap {
     padding-top: 160px;
     height: 70vh;

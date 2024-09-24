@@ -445,3 +445,7 @@
   width: 30%;
   background: gray;
 }
+.shape-12::after {
+  width: 651px;
+  top: -300px;
+}
